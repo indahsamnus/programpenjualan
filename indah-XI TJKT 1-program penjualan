@@ -2,7 +2,7 @@
     <form action="ProgramPenjualan.php" method="POST">
         <center>
             <font size="8">
-                <b>Program penjualan<br>Eektronik
+                <b>Program penjualan<br>Elektronik
                     <hr>
                         <table>
                             <tr><td>Nama Barang<td><select name="namabarang">
